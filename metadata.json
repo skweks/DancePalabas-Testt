@@ -1,6 +1,0 @@
-{
-  "name": "DanceLogic AI",
-  "description": "AI-powered dance tutor using real-time pose estimation and movement analysis to help you master any dance move from social media.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["Pose Estimation", "Movement Analysis", "AI Coaching"]
-}

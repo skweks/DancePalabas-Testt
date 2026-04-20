@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+torch
+ultralytics
+google-generativeai
+numpy
+python-multipart
+websockets
